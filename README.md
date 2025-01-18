@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Bothwellt
-- 👀 I’m interested in Software Engineering / Game Development / Data Science
-- 🌱 I’m currently learning C++, Python, and SQL
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a college student who is majoring in computer science. 
+
